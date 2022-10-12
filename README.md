@@ -1,9 +1,6 @@
-## Olá! Eu sou o Pedro Martins.
+## Olá! Eu sou o Pedro Martins, atualmente estudando programação e ADS.
 
-- 🌱 Atualmente estou estudando Front-end.
-- 📫 Contatar-me por: ppedro.dev@hotmail.com
-- ⚡ Hobbies: Skate
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+
 <div align="center">
   <a href="https://github.com/ppedromartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppedromartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
