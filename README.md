@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Martins, atualmente estudando programação e ADS.
+## Olá! Eu sou o Pedro Martins, atualmente estudante de Ciência da Computação 3° semestre.
 
 
 <div align="center">
